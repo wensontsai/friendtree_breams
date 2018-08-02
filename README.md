@@ -1,4 +1,4 @@
-# React Project with Node Express Backend
+# React Project with Node Express Backend Sequelize MYSQL
 
 > Example on using create-react-app with a Node Express Backend
 
