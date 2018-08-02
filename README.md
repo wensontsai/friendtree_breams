@@ -33,6 +33,3 @@ The key to use an Express backend with a project created with `create-react-app`
 ```
 
 This tells Webpack development server to proxy our API requests to our API server, given that our Express server is running on **localhost:5000**
-
-# smart_with_server
-# friendtree_breams
